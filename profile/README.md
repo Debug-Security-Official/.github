@@ -21,6 +21,14 @@
   
 - 📝 **Source Code Review**
 
+- 💻 **Desktop Application Security Testing**
+
+- 🧠 **AI Security Testing**
+
+- 🎣 **Security Awareness Training & Social Engineering Simulation**
+   
+- 🖥️ **SOC Deployment and Implementation**
+- 
 <p align="left"> <a href="https://www.debugsec.com/" target="blank">Company Informations:</a></p>
 
 - 👨‍💻 Visit Our Website [https://www.debugsec.com/](https://www.debugsec.com/)
