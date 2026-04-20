@@ -43,24 +43,32 @@
 
 <h3 align="left">Connect with Us:</h3>
 
-<p align="left" style="display: flex; gap: 12px; align-items: center;">
+<table>
+  <tr>
+    <td>
+      <a href="https://twitter.com/debugsecurities" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+      </a>
+    </td>
 
-<a href="https://twitter.com/debugsecurities" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
+    <td>
+      <a href="https://linkedin.com/company/debugsec" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+      </a>
+    </td>
 
-<a href="https://linkedin.com/company/debugsec" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+    <td>
+      <a href="https://fb.com/debugsec" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+      </a>
+    </td>
 
-<a href="https://fb.com/debugsec" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-
-<a href="https://instagram.com/debugsecurityltd" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-
-</p>
+    <td>
+      <a href="https://instagram.com/debugsecurityltd" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debug-security&show_icons=true&locale=en" alt="debug-security" /></p>
